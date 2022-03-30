@@ -1,0 +1,36 @@
+psd to html
+psd to responsive with html 
+
+fonts....
+ptsans bold
+PTsans regular
+color....
+ yel #fcdb00
+black #010101
+yash #8b8f94
+t-text
+     h1-#010101
+     h2-#313841
+     p- #555555
+     
+xxl 
+xl
+lg
+
+
+
+md
+sm
+col
+     xxl    xl    lg              md    sm    col
+menu
+
+
+
+
+
+
+
+
+
+
